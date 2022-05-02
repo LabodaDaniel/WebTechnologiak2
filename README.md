@@ -4,13 +4,13 @@ Az első órák egyikén megbeszéltek alapján, az én beadandóm Vue JS-ben í
 Le kell tölteni és feltelepíteni a node js-t.
 A poker-app mappában meg kell nyitni a parancssort, majd kiadni a következő parancsokat:
 
-  npm install vue
-  npm install
+  npm install vue,
+  npm install,
   npm run serve
   
 Ezután a poker-app-backend mappában is nyitni kell egy parancssort, majd kiadni ismételten a következő utasításokat:
 
-  npm install
+  npm install,
   npm run serve
   
 Miután ez kész van, a poker-app mappa parancssorában megjelenő localhost url-en lehet futtatni az alkalmazást.
